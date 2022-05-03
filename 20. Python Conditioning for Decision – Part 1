@@ -1,0 +1,4 @@
+if conditions:
+    do_action_1
+    ...
+    do_action_n
